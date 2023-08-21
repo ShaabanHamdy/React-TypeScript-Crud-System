@@ -1,0 +1,21 @@
+.TaskNAME {
+  width: 200px !important;
+}
+.fas{
+    cursor: pointer;
+}
+
+.colorTask {
+  padding: 10px;
+  margin: 7px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(251, 246, 246);
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+  -webkit-border-radius: 15px;
+}
