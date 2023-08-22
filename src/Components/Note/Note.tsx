@@ -68,7 +68,7 @@ const Note = () => {
             To Do List With TypeScript
           </h1>
           <div className="col-md-12">
-            <div className=" m-auto w-50 my-4">
+            <div className="inputDev m-auto  my-4">
               <input
                 className=" form-control"
                 placeholder="Task..."
